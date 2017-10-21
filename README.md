@@ -1,5 +1,11 @@
 # SNEST
 ## SNES USB Controller Tester
+<p align="center">
+<img src="./feedback.gif">
+</p>
+</center>
+
+---
 
 SNEST.py is a simple script that uses the pygame (SDL-based) control of
 SNES USB controller. The output is tracked via a simple ASCII NCurses
